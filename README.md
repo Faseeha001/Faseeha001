@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2015 <br>📚 I'm currently learning devops <br>🎯 Goals:Devops <br></p>
+<p align="left">✨ Creating bugs since  2015 <br>📚 I'm currently learning devops <br>🎯 Goals:  Devops Proficient <br></p>
 
 - 📫 How to reach me **faseeha.basheer08@gmail.com**
 
